@@ -75,13 +75,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\EndButton.cs" />
-    <Compile Include="Assets\FadePlane.cs" />
-    <Compile Include="Assets\HelpButton.cs" />
-    <Compile Include="Assets\HelpPopup.cs" />
-    <Compile Include="Assets\IconDoorClose.cs" />
-    <Compile Include="Assets\IconRotate.cs" />
-    <Compile Include="Assets\MightWheel.cs" />
     <Compile Include="Assets\Scripts\Characters\EnemyController.cs" />
     <Compile Include="Assets\Scripts\Characters\HeroController.cs" />
     <Compile Include="Assets\Scripts\SceneControllers\LevelBack.cs" />
@@ -106,7 +99,14 @@
     <Compile Include="Assets\Scripts\UI\DamageLabel.cs" />
     <Compile Include="Assets\Scripts\UI\DiamondsSetup.cs" />
     <Compile Include="Assets\Scripts\UI\DimondCounter.cs" />
+    <Compile Include="Assets\Scripts\UI\EndButton.cs" />
     <Compile Include="Assets\Scripts\UI\EndCanvas.cs" />
+    <Compile Include="Assets\Scripts\UI\FadePlane.cs" />
+    <Compile Include="Assets\Scripts\UI\HelpButton.cs" />
+    <Compile Include="Assets\Scripts\UI\HelpPopup.cs" />
+    <Compile Include="Assets\Scripts\UI\IconDoorClose.cs" />
+    <Compile Include="Assets\Scripts\UI\IconRotate.cs" />
+    <Compile Include="Assets\Scripts\UI\MightWheel.cs" />
     <Compile Include="Assets\Scripts\UI\ShieldPanel.cs" />
     <Compile Include="Assets\Scripts\UI\SpawnSlider.cs" />
     <Compile Include="Assets\Scripts\UI\StartButton.cs" />
